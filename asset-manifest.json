@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/my-resume/static/css/main.a84e990b.chunk.css",
+    "main.js": "/my-resume/static/js/main.4f5b3c8e.chunk.js",
+    "main.js.map": "/my-resume/static/js/main.4f5b3c8e.chunk.js.map",
+    "runtime-main.js": "/my-resume/static/js/runtime-main.deae1519.js",
+    "runtime-main.js.map": "/my-resume/static/js/runtime-main.deae1519.js.map",
+    "static/css/2.171e11cc.chunk.css": "/my-resume/static/css/2.171e11cc.chunk.css",
+    "static/js/2.f5f35ab5.chunk.js": "/my-resume/static/js/2.f5f35ab5.chunk.js",
+    "static/js/2.f5f35ab5.chunk.js.map": "/my-resume/static/js/2.f5f35ab5.chunk.js.map",
+    "static/js/3.ef5fd133.chunk.js": "/my-resume/static/js/3.ef5fd133.chunk.js",
+    "static/js/3.ef5fd133.chunk.js.map": "/my-resume/static/js/3.ef5fd133.chunk.js.map",
+    "index.html": "/my-resume/index.html",
+    "static/css/2.171e11cc.chunk.css.map": "/my-resume/static/css/2.171e11cc.chunk.css.map",
+    "static/css/main.a84e990b.chunk.css.map": "/my-resume/static/css/main.a84e990b.chunk.css.map",
+    "static/js/2.f5f35ab5.chunk.js.LICENSE.txt": "/my-resume/static/js/2.f5f35ab5.chunk.js.LICENSE.txt",
+    "static/media/Redux.543b98d3.png": "/my-resume/static/media/Redux.543b98d3.png",
+    "static/media/avatar.e5117e8e.png": "/my-resume/static/media/avatar.e5117e8e.png",
+    "static/media/App.css": "/my-resume/static/media/testimonials-bg.75612be7.jpg",
+    "static/media/css.36b2d80f.png": "/my-resume/static/media/css.36b2d80f.png",
+    "static/media/firebase1.60bf6733.png": "/my-resume/static/media/firebase1.60bf6733.png",
+    "static/media/html.f61e377f.png": "/my-resume/static/media/html.f61e377f.png",
+    "static/media/logo2.fdb00bd6.png": "/my-resume/static/media/logo2.fdb00bd6.png",
+    "static/media/me.0a473ebf.png": "/my-resume/static/media/me.0a473ebf.png",
+    "static/media/memories.3b96354a.png": "/my-resume/static/media/memories.3b96354a.png",
+    "static/media/mongoose.99098a40.jpg": "/my-resume/static/media/mongoose.99098a40.jpg",
+    "static/media/netflix.ae7f0ac4.png": "/my-resume/static/media/netflix.ae7f0ac4.png",
+    "static/media/node.0492302e.jpeg": "/my-resume/static/media/node.0492302e.jpeg",
+    "static/media/pizza.3147b8f4.png": "/my-resume/static/media/pizza.3147b8f4.png",
+    "static/media/proshop.95d99315.png": "/my-resume/static/media/proshop.95d99315.png",
+    "static/media/react.20ec11c4.png": "/my-resume/static/media/react.20ec11c4.png",
+    "static/media/styled.76b9df72.png": "/my-resume/static/media/styled.76b9df72.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.deae1519.js",
+    "static/css/2.171e11cc.chunk.css",
+    "static/js/2.f5f35ab5.chunk.js",
+    "static/css/main.a84e990b.chunk.css",
+    "static/js/main.4f5b3c8e.chunk.js"
+  ]
+}
